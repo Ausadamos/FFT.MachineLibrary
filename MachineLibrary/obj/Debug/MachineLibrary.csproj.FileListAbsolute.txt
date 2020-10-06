@@ -1,0 +1,10 @@
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\FFT.MachineLibrary\MachineLibrary\obj\Debug\MachineLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\FFT.MachineLibrary\MachineLibrary\bin\Debug\MachineLibrary.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\FFT.MachineLibrary\MachineLibrary\bin\Debug\MachineLibrary.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\FFT.MachineLibrary\MachineLibrary\bin\Debug\LangInt.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\FFT.MachineLibrary\MachineLibrary\bin\Debug\NationalInstruments.NI4882.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\FFT.MachineLibrary\MachineLibrary\bin\Debug\NationalInstruments.NI4882.xml
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\FFT.MachineLibrary\MachineLibrary\obj\Debug\MachineLibrary.csproj.CopyComplete
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\FFT.MachineLibrary\MachineLibrary\obj\Debug\MachineLibrary.dll
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\FFT.MachineLibrary\MachineLibrary\obj\Debug\MachineLibrary.pdb
+C:\Users\aussada.suk\Documents\GitHub\04.CommonFL\FFT.MachineLibrary\MachineLibrary\obj\Debug\MachineLibrary.csprojAssemblyReference.cache
